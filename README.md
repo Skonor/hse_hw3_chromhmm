@@ -4,6 +4,7 @@
 
 ### Ссылка на Colab:
 
+https://colab.research.google.com/drive/10ZhVESCxIp0D9cLukq16dJEYpeBDraPW?usp=sharing
 
 ### Таблица гистоновых меток и соответствующих файлов
 
